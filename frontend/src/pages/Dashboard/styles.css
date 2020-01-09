@@ -50,7 +50,7 @@ ul.notifications li button {
     cursor: pointer;
 }
 
-ul.notifications li button.accepts {
+ul.notifications li button.accept {
     color: #84c870;
 }
 
