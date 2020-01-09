@@ -36,7 +36,7 @@ function SpotList({ tech, navigation }){
                 renderItem={({ item }) => {
                     const complemento = item.thumbnail_url.substring(22);
                     return (<View style={styles.listItem}>
-                        <Image style={styles.thumbnail} source={{uri: `http://192.168.0.10:3333/${complemento}`}} />
+                        <Image style={styles.thumbnail} source={{uri: `http://192.168.0.14:3333/${complemento}`}} />
                         <Text style={styles.company}>{item.company}</Text>
                         <Text style={styles.price}>{item.price ? `R${item.price}/dia` : 'GRATUITO'}</Text>
                         <TouchableOpacity onPress={() => handleNavigate(item._id)} style={styles.button}>
