@@ -5,24 +5,25 @@
 ---
 
 ### Table of Contents
-You're sections headers will be used to reference location of destination.
 
 - [Description](#description)
 - [How To Use](#how-to-use)
 - [References](#references)
-- [License](#license)
 - [Author Info](#author-info)
 
 ---
 
 ## Description
 
-Creating ReadMe's for your Github repository can be tedious.  I hope this template can save you time and effort as well as provide you with some consistency across your projects.
+The basic idea is on the one hand a web app where companies can advertise places for developers to use and share experience, on the other hand a mobile app where developers can consult companies that use the technologies of their interest and make their reservation.
+
+During Rocketseat's Omnistack Week 9.0, we built a web app made for advertisers along with a mobile app made for users interested in renting the space. The communication between the two was made through a REST API also developed throughout the week.
 
 #### Technologies
 
-- Technology 1
-- Technology 2
+- React.js
+- React-Native
+- Node.js
 
 [Back To The Top](#read-me-template)
 
@@ -32,47 +33,54 @@ Creating ReadMe's for your Github repository can be tedious.  I hope this templa
 
 #### Installation
 
-
-
-#### API Reference
-
-```html
-    <p>dummy code</p>
+In your gitbash terminal:
 ```
+>   git clone https://github.com/Nouani/AirCnC.git
+```
+
+On your open machine terminal in the AirCnC folder:
+```
+>   cd AirCnC/backend
+```
+```
+>   yarn 
+    or 
+>   npm
+```
+Repeat the same thing changing "backend" to "frontend" and "mobile"
+
+#### Start up
+In the backend folder:
+```
+>   yarn dev 
+    or 
+>   npm run dev
+```
+
+In the frontend folder:
+```
+>   yarn start
+    or 
+>   npm run start
+```
+
+In the mobile folder:
+```
+>   yarn start
+    or 
+>   expo start
+```
+
+#### Note: You must have a package manager, either npm or yarn. In addition, you need globally installed nodejs, reactjs, and react-native. Finally, the Expo for mobile.
+
 [Back To The Top](#read-me-template)
 
 ---
-
 ## References
-[Back To The Top](#read-me-template)
 
----
-
-## License
-
-MIT License
-
-Copyright (c) [2017] [James Q Quick]
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-[Back To The Top](#read-me-template)
+#### - Rocketseat: https://rocketseat.com.br/
+#### - Facebook React.js: https://pt-br.reactjs.org/
+#### - Facebook React-Native: https://facebook.github.io/react-native/
 
 ---
 
