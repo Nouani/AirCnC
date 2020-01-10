@@ -19,13 +19,13 @@ The basic idea is on the one hand a web app where companies can advertise places
 
 During Rocketseat's Omnistack Week 9.0, we built a web app made for advertisers along with a mobile app made for users interested in renting the space. The communication between the two was made through a REST API also developed throughout the week.
 
-- Operation demo video: 
-
 #### Technologies
 
 - React.js
 - React-Native
 - Node.js
+
+- Operation demo video: 
 
 ---
 
