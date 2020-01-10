@@ -19,13 +19,13 @@ The basic idea is on the one hand a web app where companies can advertise places
 
 During Rocketseat's Omnistack Week 9.0, we built a web app made for advertisers along with a mobile app made for users interested in renting the space. The communication between the two was made through a REST API also developed throughout the week.
 
+- Operation demo video: 
+
 #### Technologies
 
 - React.js
 - React-Native
 - Node.js
-
-[Back To The Top](#read-me-template)
 
 ---
 
@@ -73,8 +73,6 @@ In the mobile folder:
 
 #### Note: You must have a package manager, either npm or yarn. In addition, you need globally installed nodejs, reactjs, and react-native. Finally, the Expo for mobile.
 
-[Back To The Top](#read-me-template)
-
 ---
 ## References
 
@@ -86,7 +84,7 @@ In the mobile folder:
 
 ## Author Info
 
-- Twitter - [@jamesqquick](https://twitter.com/jamesqquick)
-- Website - [James Q Quick](https://jamesqquick.com)
+- Twitter - [@sanches_coo](https://twitter.com/sanches_coo)
+- LinkedIn - [Nouani Sanches](https://www.linkedin.com/in/nouani-sanches-a8b39419b/m)
 
 [Back To The Top](#read-me-template)
