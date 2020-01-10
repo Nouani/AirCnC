@@ -1,6 +1,4 @@
-# AirCnC
-
-![Project Image](https://avatars1.githubusercontent.com/u/49238044?v=4)
+![Project Image](https://user-images.githubusercontent.com/49238044/72116806-2f188300-332a-11ea-8d78-eb960f305def.png)
 
 > Web / Mobile application and Api-REST developed in OmniStack 9.0.
 
