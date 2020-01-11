@@ -30,7 +30,7 @@ During Rocketseat's Omnistack Week 9.0, we built a web app made for advertisers 
 - React-Native
 - Node.js
 
-#### - Operation demo video: https://www.youtube.com/watch?v=HUxoI7NvDwo&t=8s
+#### - [Operation demo video](https://www.youtube.com/watch?v=HUxoI7NvDwo&t=8s)
 
 ---
 
