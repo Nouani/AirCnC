@@ -1,7 +1,7 @@
 <br />
 <p align="center">
 
-  <img alt="Clone-Nubank" src="https://user-images.githubusercontent.com/49238044/72116806-2f188300-332a-11ea-8d78-eb960f305def.png"/>
+  <img alt="AirCnC-Logo" src="https://user-images.githubusercontent.com/49238044/72116806-2f188300-332a-11ea-8d78-eb960f305def.png"/>
 
 
   <h3 align="center">> Web / Mobile application and Api-REST developed in OmniStack 9.0.</h3>
