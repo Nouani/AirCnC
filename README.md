@@ -1,4 +1,3 @@
-<br />
 <p align="center">
 
   <img alt="AirCnC-Logo" src="https://user-images.githubusercontent.com/49238044/72116806-2f188300-332a-11ea-8d78-eb960f305def.png"/>
