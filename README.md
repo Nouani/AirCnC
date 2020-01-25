@@ -9,14 +9,12 @@
 
 ---
 
-### Table of Contents
-
-- [Description](#description)
-- [How To Use](#how-to-use)
-- [References](#references)
-- [Author Info](#author-info)
-
----
+<p align="center">
+  <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#references">References</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#author-info">Author Info</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+</p>
 
 ## Description
 
@@ -29,8 +27,6 @@ During Rocketseat's Omnistack Week 9.0, we built a web app made for advertisers 
 - React.js
 - React-Native
 - Node.js
-
-#### - [Operation demo video](https://www.youtube.com/watch?v=HUxoI7NvDwo&t=8s)
 
 ---
 
@@ -79,11 +75,12 @@ In the mobile folder:
 #### Note: You must have a package manager, either npm or yarn. In addition, you need globally installed nodejs, reactjs, and react-native. Finally, the Expo for mobile.
 
 ---
-## References
 
-#### - Rocketseat: https://rocketseat.com.br/
-#### - Facebook React.js: https://pt-br.reactjs.org/
-#### - Facebook React-Native: https://facebook.github.io/react-native/
+## References
+ 
+- [Rocketseat](https://rocketseat.com.br/)
+- [ReactJS Documentation](https://reactjs.org/)
+- [React Native Documentation](https://facebook.github.io/react-native/)
 
 ---
 
@@ -92,4 +89,4 @@ In the mobile folder:
 - Twitter - [@sanches_coo](https://twitter.com/sanches_coo)
 - LinkedIn - [Nouani Sanches](https://www.linkedin.com/in/nouani-sanches-a8b39419b/m)
 
-[Back To The Top](#read-me-template)
+[Operation demo video](https://www.youtube.com/watch?v=HUxoI7NvDwo&t=8s)
