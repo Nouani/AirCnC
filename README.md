@@ -10,81 +10,75 @@
 ---
 
 <p align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Nouani/AirCnC.svg">
+
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Nouani/AirCnC.svg">
+
+  <a href="https://www.codacy.com/app/Nouani/AirCnC?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Nouani/AirCnC&amp;utm_campaign=Badge_Grade">
+    <img alt="Codacy grade" src="https://img.shields.io/codacy/grade/1b577a07dda843aba09f4bc55d1af8fc.svg">
+  </a>
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Nouani/AirCnC.svg">
+  <a href="https://github.com/Nouani/AirCnC/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Nouani/AirCnC.svg">
+  </a>
+
+  <a href="https://github.com/Nouani/AirCnC/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Nouani/AirCnC.svg">
+  </a>
+
+  <img alt="GitHub" src="https://img.shields.io/github/license/Nouani/AirCnC.svg">
+</p>
+
+
+<p align="center">
   <a href="#description">Description</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#references">References</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#author-info">Author Info</a>
 </p>
 
-## Description
+## :page_with_curl: Description
 
 The basic idea is on the one hand a web app where companies can advertise places for developers to use and share experience, on the other hand a mobile app where developers can consult companies that use the technologies of their interest and make their reservation.
 
 During Rocketseat's Omnistack Week 9.0, we built a web app made for advertisers along with a mobile app made for users interested in renting the space. The communication between the two was made through a REST API also developed throughout the week.
 
-#### Technologies
+#### :rocket: Technologies
 
 - React.js
 - React-Native
 - Node.js
 
----
+## :information_source: How To Use
 
-## How To Use
+```bash
+# Clone this repository
+$ git clone https://github.com/Nouani/AirCnC.git
 
-#### Installation
+# Go into the repository
+$ cd AirCnC
 
-In your gitbash terminal:
-```
->   git clone https://github.com/Nouani/AirCnC.git
-```
+# Install dependencies 
+$ cd folder-name (backend, frontend and mobile)
+$ yarn install
 
-On your open machine terminal in the AirCnC folder:
-```
->   cd AirCnC/backend
-```
-```
->   yarn 
-    or 
->   npm
-```
-Repeat the same thing changing "backend" to "frontend" and "mobile"
+# Run the backend
+$ yarn dev
 
-#### Start up
-In the backend folder:
-```
->   yarn dev 
-    or 
->   npm run dev
+# Run the frontend and mobile
+$ yarn start
 ```
 
-In the frontend folder:
-```
->   yarn start
-    or 
->   npm run start
-```
+#### Note: You must have installed the Yarn package manager. In addition to it, you need nodejs, reactjs and react-native installed globally. The mobile project developed with React Native is using Expo so it is also necessary to have it installed.
 
-In the mobile folder:
-```
->   yarn start
-    or 
->   expo start
-```
-
-#### Note: You must have a package manager, either npm or yarn. In addition, you need globally installed nodejs, reactjs, and react-native. Finally, the Expo for mobile.
-
----
-
-## References
+## :blue_book: References
  
 - [Rocketseat](https://rocketseat.com.br/)
 - [ReactJS Documentation](https://reactjs.org/)
 - [React Native Documentation](https://facebook.github.io/react-native/)
 
----
-
-## Author Info
+## :person_with_blond_hair: Author Info
 
 - Twitter - [@sanches_coo](https://twitter.com/sanches_coo)
 - LinkedIn - [Nouani Sanches](https://www.linkedin.com/in/nouani-sanches-a8b39419b/m)
